@@ -187,7 +187,7 @@ static void print_banner(void) {
         "\033[1;36m🌪  Hangin"
         RST "\n");
     printf(WHT "   ══════════════════════════════════════\n" RST);
-    printf(YEL "        An Elemental Battle Game\n" RST);
+    printf(YEL "        An Elemental Battle Dice Game\n" RST);
     printf(WHT "   ══════════════════════════════════════\n\n" RST);
 }
 
